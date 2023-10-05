@@ -16,7 +16,7 @@ $user = $users->getUserInfo();
 <?php include('inc/container.php');?>
 <div class="container">	
 	<div class="row home-sections">
-	<h2>Helpdesk System</h2>	
+	<h2>Sistema de tickets</h2>	
 	<?php include('menus.php'); ?>		
 	</div> 
 	<div class="">   		

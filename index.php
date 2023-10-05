@@ -18,11 +18,11 @@ $user = $users->getUserInfo();
 <?php include('inc/container.php');?>
 <div class="container">	
 	<div class="row home-sections">
-	<h2>Helpdesk System</h2>	
+	<h2>Sistema de Tickets</h2>	
 	<?php include('menus.php'); ?>		
 	</div> 
 	<div class="">   		
-		<p>View and manage tickets that may have responses from support team.</p>	
+		<p>Vea y administre tickets que puedan tener respuestas del equipo de soporte.</p>	
 
 		<div class="panel-heading">
 			<div class="row">
